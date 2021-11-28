@@ -1,2 +1,2 @@
 # Meade
-A high-level lua library introducing proactical functions for Cuberite plugin development.
+A high-level lua library introducing useful functions for Cuberite plugin development.
